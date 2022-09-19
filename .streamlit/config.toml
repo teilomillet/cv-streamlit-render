@@ -1,0 +1,12 @@
+[theme]
+# PrimaryColor for interactive elements
+primaryColor = "#3D1DA3"
+
+# BackgroundColor"
+backgroundColor = "#E5E5E3"
+
+# BackgroundColor used for the sidebar and most interactive widgets
+secondaryBackgroundColor = "#3D1DA3"
+
+# Color used for the text
+textColor = "#000000"
